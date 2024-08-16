@@ -26,7 +26,7 @@ export default function Listing() {
     const [dialogConfirmationData, setDialogConfirmationData] = useState({
         visible: false,
         id: 0,
-        message: "Tem certeza?"
+        message: "Tem certeza que quer deletar esse registro?"
     })
     
     const [queryParams] = useState<QueryParams>({
@@ -90,7 +90,7 @@ export default function Listing() {
         <main>
             <section id="proj-listing-section" className="proj-container">
                 <div>
-                    <h2 className="proj-mt20">Listagem de Alunos</h2>
+                    <h2 className="proj-mt20">Listagem</h2>
                 </div>
 
                 <div className="proj-mt40 proj-mb20">

@@ -8,11 +8,11 @@ export default function Header() {
             <nav className='proj-container'>
                 <div className='proj-header-content'>
                     <Link to="/">
-                        <h3>ProjCrudFront</h3>
+                        <h3>BaseProject</h3>
                     </Link>
 
                     <div>                        
-                        <a href='https://github.com/auriceliof/pessoal-ProjCrudBackFront'>GitProject</a>
+                        <a href='https://github.com/auriceliof/pessoal-ProjBase'>GitProject</a>
                     </div>
                 </div>
 

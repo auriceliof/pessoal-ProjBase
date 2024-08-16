@@ -112,7 +112,7 @@ export default function NewForm() {
             <section id="proj-form-section" className="proj-container">
                 <div className="proj-form-container">
                     <form className="proj-card proj-form" onSubmit={handleSubmit}>
-                        <h2 className="proj-mb20">Dados do Aluno</h2>
+                        <h2 className="proj-mb20">Cadastro</h2>
                         <div className="proj-form-controls-container">
                             <div>
                                 <h5>Nome</h5>

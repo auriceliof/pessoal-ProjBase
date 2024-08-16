@@ -24,12 +24,13 @@
 .proj-dialog-box h2 {
   font-size: 20px;
   color: var(--proj-color-font-primary);
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 60px;
 }
 
 .proj-dialog-btn {
   width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
 }
