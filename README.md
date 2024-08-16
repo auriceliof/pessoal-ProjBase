@@ -89,11 +89,12 @@ MODAL PARA CONFIRMAÇÃO DE EXCLUSÃO
 
 VALIDAÇÃO DE FORMULÁRIO
 
-![image](https://github.com/user-attachments/assets/00d8cda0-d39d-4644-baa2-16a00856891d)
+![image](https://github.com/user-attachments/assets/5675c684-42e8-47bf-8a10-0e2223312bf7)
 
 
 
 
 PAGINAÇÃO
 
-![image](https://github.com/user-attachments/assets/94622803-0497-4cdf-b73f-1cb9c086f93b) 
+![image](https://github.com/user-attachments/assets/a92b137e-6058-4808-bdfb-cd688aee5cb5)
+
