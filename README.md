@@ -58,28 +58,31 @@ FRONTEND
 
   HOME
 
-![image](https://github.com/user-attachments/assets/2bba479c-86d7-49df-94aa-fce8c8220500)
+![image](https://github.com/user-attachments/assets/f243f732-38bb-4552-8214-bd410c8e398e)
 
 
 
 
-  CATÁLOGO DE ALUNOS
 
-![image](https://github.com/user-attachments/assets/73501ef8-a3f1-44f9-90c1-e48116cd6b15)
+  LISTAGEM
 
-
-
-
-  CADASTRO E EDIÇÃO DE ALUNO
-
-![image](https://github.com/user-attachments/assets/097c1a7c-3373-480f-a4a6-cd5f0eeb34ca)
+![image](https://github.com/user-attachments/assets/04fc5ba1-91b1-416f-9be1-14367113503c)
 
 
 
 
-MODAL PARA CONFIRMAÇÃO DE EXCLUSÃO DE ALUNO
 
-![image](https://github.com/user-attachments/assets/43cdd911-14e7-446a-b4f2-4c4180511de4)
+  CADASTRO E EDIÇÃO
+
+![image](https://github.com/user-attachments/assets/383c4f4e-3a66-456f-b819-fa6486075650)
+
+
+
+
+
+MODAL PARA CONFIRMAÇÃO DE EXCLUSÃO
+
+![image](https://github.com/user-attachments/assets/8f6c9786-5237-4b2d-bed3-e53decd32d58)
 
 
 
