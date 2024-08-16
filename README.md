@@ -30,54 +30,6 @@ BACKEND
 
 
 
-- CASO
-
-    Uma Universidade precisa cadastrar seus alunos, conforme segue:
-  
-      NOME
-  
-      CPF
-  
-      DATA DE NASCIMENTO
-  
-      RENDA 
-
-
-- TESTES A SEREM REALIZADOS NO POSTMAN
-
-    BUSCA PAGINADA DE ALUNOS
-    
-      GET /students?page=0&sort=name,asc
-    
-    BUSCA DE ALUNO POR ID
-    
-      GET /students/1
-    
-    INSERIR NOVO ALUNO
-    
-      POST /students
-      {
-        "name": "Auricelio Freitas",
-        "cpf": "12345678901",
-        "birthDate": "1982-08-28T10:30:00Z",
-        "income": 15089.0,
-      }
-  
-    ATUALIZAR ALUNO
-    
-      PUT /students/1
-      {
-        "name": "Auricelio Moreira",
-        "cpf": "12345678901",
-        "birthDate": "1982-08-28T10:30:00Z",
-        "income": 15089.0,
-      }
-  
-    DELETAR ALUNO
-    
-       DELETE /clients/1
-
-
 - SWAGGER OPENAPI
 
   Link de acesso ao Swagger: http://localhost:8080/swagger-ui/index.html#
@@ -99,26 +51,6 @@ FRONTEND
       Versionamento: Git e GitHub
 
       Projeto: VITE
-
-
-
-- CASO
-
-    O Administrador do Sistema deve visualizar todos os alunos na tela e conseguir realizar as ações de CRUD.
-
-  
-  
-- TESTES A SEREM REALIZADOS NO SISTEMA WEB
-
-      Visualizar todos os alunos numa tabela 
-        
-      Inserir um novo aluno
-    
-      Editar um aluno existente
-    
-      Deletar um aluno existente
-
-OBS: Não será possível submeter um formulário vazio, bem como todos os campos devem ser preenchidos conforme regras de validação.
 
   
 -----------------------------------------------------------
