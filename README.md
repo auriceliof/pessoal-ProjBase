@@ -1,12 +1,12 @@
-PROJETO CRUD RESTFUL COM FRONTEND E BACKEND (COM SWAGGER E PAGINAÇÃO)
+PROJETO BASE COM FRONTEND E BACKEND (COM SWAGGER E PAGINAÇÃO)
 
 AUTHOR: AURICELIO FREITAS
 
-DATA: 13/08/2024
+DATA: 15/08/2024
 
 -----------------------------------------------------------
 
-O projeto será implementado conforme abaixo: 
+O projeto contem: 
 
 
 BACKEND
@@ -88,9 +88,7 @@ BACKEND
 -----------------------------------------------------------
 FRONTEND
 
-- DEPENDÊNCIAS 
-
-    O projeto será implementado conforme abaixo: 
+- DEPENDÊNCIAS  
     
       IDE: Visual Studio Code (v. 1.88.1)
       
